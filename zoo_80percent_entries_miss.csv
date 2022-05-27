@@ -1,0 +1,25 @@
+Animal_Name,hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize,class_type
+Aardvark,1,0,0,1,0,0,1,1,1,1,0,0,4,0,0,1,Mammal
+Antelope,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,Mammal
+Bear,1,0,0,1,0,0,1,1,1,1,0,0,4,0,0,1,Mammal
+Boar,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,Mammal
+Buffalo,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,Mammal
+Calf,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1,Mammal
+Cavy,1,0,0,1,0,0,0,1,1,1,0,0,4,0,1,0,Mammal
+Cheetah,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,Mammal
+Deer,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,Mammal
+Weka,0,1,1,0,0,1,1,0,1,1,0,0,2,1,0,0,Bird
+Owl,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,1,Bird
+Chicken,0,1,1,0,1,0,0,0,1,1,0,0,2,1,1,0,Bird
+Crow,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,0,Bird
+Dove,0,1,1,0,1,0,0,0,1,1,0,0,2,1,1,0,Bird
+Komodo Dragon,0,0,1,0,0,0,1,1,1,1,1,0,4,1,0,1,Reptile
+Lizard,0,0,1,0,0,1,0,0,1,1,0,0,4,1,1,1,Reptile
+Alligator,0,0,1,0,0,1,1,1,1,1,0,0,4,1,0,1,Reptile
+Shark,0,0,0,0,0,1,1,1,1,0,0,1,0,1,0,1,Fish
+Stone Fish,0,0,1,0,0,1,0,1,1,0,1,1,0,1,0,1,Fish
+Caecilian,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Amphibian
+Mantis,0,0,1,0,1,0,0,0,0,1,0,0,6,0,0,0,Bug
+Leaf Hopper,0,0,1,0,1,0,0,0,0,1,0,0,6,0,0,0,Bug
+Clam,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Invertebrate
+Crab,0,0,1,0,0,1,1,0,0,0,0,0,4,0,0,0,Invertebrate
